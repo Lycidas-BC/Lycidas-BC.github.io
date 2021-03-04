@@ -3,6 +3,13 @@ img.pic {
   border-radius:50%;
 }
 
+body {
+  font-family: trebuchet ms, calibri, helvetica;
+  background-color: rgba(10, 160, 120, 0.25);
+  color: rgba(20, 10, 100, 1);
+  margin: 5% 20%;
+}
+
 h5 {
   margin-bottom: -14px;
   font-size: 100%;
@@ -19,5 +26,9 @@ p {
 }
 
 .left {
-  width: 300px;
+  width: 30%;
+}
+
+.right {
+  width: 60%;
 }
